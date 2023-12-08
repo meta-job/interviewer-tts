@@ -1,0 +1,3 @@
+pip install transfromers
+pip install TTS
+pip install mysql-connector-python
